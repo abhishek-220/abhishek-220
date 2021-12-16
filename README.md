@@ -100,5 +100,30 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
                 alt="photoshop" width="40" height="40" />
          </a>
+ <h4 align="left">Others</h4>
+    <a href="https://www.blender.org/" target="_blank"> <img
+            src="https://www.kindpng.com/picc/m/75-753756_blender-logo-png-transparent-png.png" alt="Blender"
+            width="40" height="40" />
+    </a>
+    <a href="https://www.designer.io/en/?psd-campaign=15209181315&psd-adgroup=128187821503&psd-kw=gravit&campaignid=15209181315&adgroupid=128187821503&adid=560071362130" target="_blank"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gravit_Designer_Logo.svg/768px-Gravit_Designer_Logo.svg.png" alt="gravit"
+            width="40" height="40" />
+    </a>
+    <a href="https://unity.com/" target="_blank"> <img
+            src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity"
+            width="40" height="40" />
+    </a>
+    <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> <img
+        src="https://i.dlpng.com/static/png/452007_preview.png" alt="Maya"
+        width="40" height="40" />
+    </a>
+    <a href="https://www.autodesk.in/products/autocad/overview" target="_blank"> <img
+        src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg" alt="Autocad"
+        width="40" height="40" />
+    </a>
+    <a href="https://godotengine.org/" target="_blank"> <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot"
+        width="40" height="40" />
+    </a>
 </p>
  
