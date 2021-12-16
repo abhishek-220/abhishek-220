@@ -69,8 +69,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40>
  </a>      
  <a href="https://www.eclipse.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="100" height="40>
- </a>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="100" height="40> </a>  
  </p>
  
  <br>
