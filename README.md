@@ -125,5 +125,9 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot"
         width="40" height="40" />
     </a>
+    <a href="https://www.canva.com/" target="_blank"> <img
+        src="https://spotlightbranding.com/wp-content/uploads/2020/09/518-5182949_canva-canva-logo-vector-clipart.jpg" alt="Godot"
+        width="40" height="40" />
+    </a>
 </p>
  
