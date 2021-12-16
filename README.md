@@ -4,10 +4,6 @@
 <p align="center">Get on the grind mode👍</p>
 <p align="center"><i>Welcome to my profile</i></p>
 
-**abhishek-220/abhishek-220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in college clubs and developing skills
 - 🌱 I’m currently learning ML MySQL, Data Science
 - 👯 I’m looking to collaborate on ...
@@ -70,14 +66,15 @@ Here are some ideas to get you started:
  </a>
   </a>
    <a href="https://jupyter.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="PyCharm" width="40" height="40>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40>
  </a>      
  <a href="https://www.eclipse.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" alt="PyCharm" width="40" height="40>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="100" height="40>
  </a>  
  </p>
+ 
+ 
+## Design Tools
 
- ## Designing Tools
- 
- 
- ## Audio Sound tools
+
+## Audio Sound tools
