@@ -22,7 +22,7 @@
 
 
 
-## Languages
+<h2 align="left>Languages</h2>
 <p align="left">
  <a href="https://html.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40">
@@ -53,7 +53,7 @@
  </p>
  
  
- ## Coding Tools
+<h2 align="left>Coding Tools</h2>
  <p align="left">
  <a href="https://code.visualstudio.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vs code" width="40" height="40>
