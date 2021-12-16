@@ -1,12 +1,14 @@
-### Hi there 👋 I'm Abhishek
+<h1 align="center"><img src="https://pa1.narvii.com/6546/2c324c2269e27c0f3cbfcd0e758896a03ba18737_hq.gif" width="60" height="40"></h1>
+<h2 align="center">I'm Abhishek Gautam 🖐</h2>
 
+<p align="center">Get on the grind mode.👍</p>
 <!--
 **abhishek-220/abhishek-220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in college clubs and developing skills
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ML MySQL, Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
