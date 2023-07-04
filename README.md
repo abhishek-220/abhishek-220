@@ -1,6 +1,6 @@
 
-<h2 align="center">Hi 🖐 I'm Abhishek Gautam </h2>
-<h6 align="center">A motivated Electrical Engineer, pursuing my undergrad from National Institute of Technology Calicut.</h6>
+<h1 align="center">Hi 🖐 I'm Abhishek Gautam </h1>
+<h4 align="center">A motivated Electrical Engineer, pursuing my undergrad from National Institute of Technology Calicut.</h4>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -18,6 +18,20 @@
 - 🌱 I am working on Machine Learning and AI
 - 👯 I’m looking to collaborate on various control systems projects 
 - 💬 Ask me about Traction
+
+
+<h3 align="left">Coding profiles:</h3>
+<p>Yea, trying to improve them </p>
+
+<p align="left">
+ 
+<a href="https://www.codechef.com/users/palash_bajpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="palash_bajpai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/palashbajpai214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palashbajpai214" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/palashbajpai45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palashbajpai45" height="30" width="40" /></a>
+</p>
+
+
+<br/>
 
 
 
