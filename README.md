@@ -2,20 +2,18 @@
 <h2 align="center">Hi 🖐 I'm Abhishek Gautam </h2>
 <h6 align="center">A motivated Electrical Engineer, pursuing my undergrad from National Institute of Technology Calicut.</h6>
 
-<p align="center">I like creating new stuff and learning about them</p>
-<p align="center"><i>Welcome to my profile</i></p>
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-gautam-b97593212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<p align="center"><i>Welcome to my profile</i></p>
+
 
 - 🔭 I’m currently working on KAVACH RFID
 - 🌱 I am working on Machine Learning and AI
 - 👯 I’m looking to collaborate on various control systems projects 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Traction
 
 
