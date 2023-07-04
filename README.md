@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://pa1.narvii.com/6546/2c324c2269e27c0f3cbfcd0e758896a03ba18737_hq.gif" width="120" height="40"></h1>
+
 <h2 align="center">Hi 🖐 I'm Abhishek Gautam </h2>
 <h6 align="center">A motivated Electrical Engineer, pursuing my undergrad from National Institute of Technology Calicut.</h6>
 
