@@ -129,7 +129,7 @@
             src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity"
             width="40" height="40" />
     </a>
-    <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> <img
+    <a href=["https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Ffree-download-autodesk-maya-logo--812336851555812441%2F&psig=AOvVaw2QRP4dRh2iYFOvHG_nUzlL&ust=1713505902597000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCR0IaJy4UDFQAAAAAdAAAAABAE)" target="_blank"> <img
         src="https://i.dlpng.com/static/png/452007_preview.png" alt="Maya"
         width="40" height="40" />
     </a>
